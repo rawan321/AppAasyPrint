@@ -17,7 +17,7 @@ export default function LoginScreen() {
 
      <View ><TextInput style={{paddingHorizontal:10, height:50, width:300, borderColor:'red', borderWidth:0.5, marginBottom: 5} }/>
      </View>  
-     <View ><TextInput style={{paddingHorizontal:10, height:50, width:300, borderColor:'red', borderWidth:0.5}}/>
+     <View ><TextInput style={{paddingHorizontal:10, height:50, width:300, borderColor:'red', borderWidth:0.5, margin : 7}}/>
      </View>  
 
 
